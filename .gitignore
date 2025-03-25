@@ -1,0 +1,6 @@
+.vscode
+Web Scraping.code-workspace
+__pycache__/
+*.pyc
+.env
+.webscraping_venv
